@@ -1,10 +1,13 @@
 # Book Summary - Dive Into Design Patterns
 
-Author: Alexander Shvets
+## General information
+- Author: Alexander Shvets
+- Book rating on Goodreads: 4.68 (updated: June 21st, 2024) [page link](https://www.goodreads.com/book/show/43125355-dive-into-design-patterns)
+- A distilled (and shorter) book summary is located at [Dive into Design Patterns – Distilled summary](<Dive into Design Patterns – full summary.md>).
+- Other summaries of the book
+    + SGlavoie.com ([page link](https://www.sglavoie.com/posts/2024/03/09/book-summary-dive-into-design-patterns/)): Very extensive summary of each chapter with detailed code examples for each design pattern. 
 
-![Dive Into Design Patterns](<assets/Dive Into Design Patterns - cover image.png>)
-
-Book distilled in [[Book Key Points - Dive Into Design Patterns]].
+![Dive Into Design Patterns](<assets/Dive Into Design Patterns - cover image.jpg>)
 
 ---
 
@@ -76,6 +79,8 @@ SOLID principles base on the three basic design principles in chapter 3.2 and go
 
 ### 4.1 Creational Design Patterns
 Creational design patterns provide various object creation mechanisms, which increase flexibility and reuse of existing code.
+
+---
 
 #### Factory method
 **Chapter summary**: 
@@ -157,6 +162,8 @@ Singleton pattern can be used in abstract factory, builder, prototype, so that t
 
 ### 4.2 Structural Design Patterns
 Structural design patterns explain how to assemble objects and classes into larger structures, while keeping these structures flexible and efficient.
+
+---
 
 #### Adapter
 **Chapter summary**: 
@@ -272,6 +279,8 @@ Proxy ↔ adapter ↔ decorator: Proxy has the identical interface as the servic
 
 ### 4.3 Behavioral Design Patterns
 Behavioral design patterns are concerned with algorithms and the assignment of responsibilities between objects.
+
+---
 
 #### Chain of Responsibility
 **Chapter summary**: 

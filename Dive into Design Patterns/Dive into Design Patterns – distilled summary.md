@@ -2,7 +2,14 @@
 
 # Book Key Points - Dive Into Design Patterns
 
-This key points summary is created based on [full summary of "Dive Into Design Patterns"](<Dive into Design Patterns – full summary.md>).
+## General information
+- Author: Alexander Shvets
+- Book rating on Goodreads: 4.68 (updated: June 21st, 2024) [page link](https://www.goodreads.com/book/show/43125355-dive-into-design-patterns)
+- A full (and longer) book summary is located at [Dive into Design Patterns – Full summary](<Dive into Design Patterns – full summary.md>).
+- Other summaries of the book
+    + SGlavoie.com ([page link](https://www.sglavoie.com/posts/2024/03/09/book-summary-dive-into-design-patterns/)): Very extensive summary of each chapter with detailed code examples for each design pattern. 
+
+![Dive Into Design Patterns](<assets/Dive Into Design Patterns - cover image.jpg>)
 
 ---
 
@@ -17,12 +24,16 @@ Different types of relations exist between classes and objects. The weakest one 
 ---
 
 ## Part 2 - Design Principles
+
+![SOLID principle](<assets/Dive Into Design Patterns - SOLID.JPG>)
 Three fundamental design principles for good software design are encapsulation, depending on abstraction instead of concrete classes, and favoring composition over inheritance. 
 
 The SOLID principle is aligned with these fundamental principles, and describes them more in detail. The SOLID consists of five principles: Single responsibility, Open/closed, Liskov substitution, Interface segregation, and Dependency inversion. 
 
 
 ---
+
+![Design pattern categories](<assets/Dive Into Design Patterns - Design pattern categories.JPG>)
 
 ## Part 3 - Creational Design Patterns
 Creational design patterns provide object creation mechanisms, which increase flexibility and reuse of existing code. Five patterns are explained: factory, abstract factory, builder, prototype, singleton.

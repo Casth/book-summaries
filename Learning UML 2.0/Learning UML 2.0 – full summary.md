@@ -1,6 +1,13 @@
 # Book Summary - Learning UML 2.0
 
-Authors: Russ Miles, Kim Hamilton
+
+
+## General information
+- Authors: Authors: Russ Miles, Kim Hamilton
+- Book rating on Goodreads: 3.54 (updated: July 26th, 2024) [page link](https://www.goodreads.com/book/show/233162.Learning_UML_2_0)
+- Other summaries of the book
+    + No other summary or review found.
+	+ Many book recommendation on the topic of UML 2.0 exist online, such as "20 Best UML Books of All Time" from bookauthority [page link](https://bookauthority.org/books/best-uml-books).
 
 ![cover image](<assets/Learning UML 2.0 - cover image.png>)
 
@@ -40,10 +47,10 @@ Use cases are normally the starting point at designing a system based on require
 **Scope in book**: \
 Use case diagram is the first diagram type in UML 2.0. It contributes to the use case view of Kruchten's 4+1 view model (chap. 01). Use case view affects all other four views.
 
+---
+
 ### Use Case Diagram
-- A *use case* is a situation where the system fulfills one or more of user's requirements. It captures a piece of functionality that the system provides. The use cases correspond to the system's functional requirements.
-- The use cases shall be the starting point of the project. 
-- Benefits of building use cases are:
+- A *use case* is a situation where the system fulfills one or more of user's requirements. It captures a piece of functionality that the system provides. The use cases correspond to the system's functional requirements. The use cases shall be the starting point of the project. Benefits of building use cases are:
 	+ identify gaps in the requirements 
 	+ prioritize use cases and determine workload
 	+ derive test cases
@@ -75,6 +82,8 @@ Use case diagram is the first diagram type in UML 2.0. It contributes to the use
 	+ example \
       ![](<assets/Learning UML 2.0 - use case example.png>)
 
+---
+
 ### Use Case Relationships
 - Use case relationships
 	+ include
@@ -98,6 +107,8 @@ Use case diagram is the first diagram type in UML 2.0. It contributes to the use
 	+ an "extended" relationship denotes the extended use case as an optional step, that can be added ("extended") to a use case
 	  (example: "Record Application Failure" can be added optionally to the other two use cases) \
       ![](<assets/Learning UML 2.0 - use case extended relationship.png>)
+
+---
 
 ### Use Case Overview Diagram
 - *Use Case Overview diagram* shall not be confused with use case diagram. This diagram shows the system context (actors, relationships with actors) but not the use cases.

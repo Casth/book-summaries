@@ -3,7 +3,7 @@
 ## General information
 - Author: Alexander Shvets
 - Book rating on Goodreads: 4.68 (updated: June 21st, 2024) [page link](https://www.goodreads.com/book/show/43125355-dive-into-design-patterns)
-- A distilled (and shorter) book summary is located at [Dive into Design Patterns – Distilled summary](<Dive into Design Patterns – full summary.md>).
+- A distilled (and shorter) book summary is located at [Dive into Design Patterns – Distilled summary](<Dive into Design Patterns – distilled summary.md>).
 - Other summaries of the book
     + SGlavoie.com ([page link](https://www.sglavoie.com/posts/2024/03/09/book-summary-dive-into-design-patterns/)): Very extensive summary of each chapter with detailed code examples for each design pattern. 
 

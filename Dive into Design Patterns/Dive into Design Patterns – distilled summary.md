@@ -1,5 +1,3 @@
-#literature/book #architecture/sw-architecture #architecture/pattern 
-
 # Book Key Points - Dive Into Design Patterns
 
 ## General information

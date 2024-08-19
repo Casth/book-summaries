@@ -5,7 +5,9 @@
 - Book rating on Goodreads: 4.20 (updated: August 9th, 2024) [page link](https://www.goodreads.com/book/show/85009.Design_Patterns)
 - A full (and longer) book summary is located at [Design Patterns – Full summary](<Design Patterns – full summary.md>).
 - Other summaries of the book
-    + TBD
+    + A short summary of the three categories of design patterns (creational, structural, behaviroal) [page link](https://santhosh-adiga-u.medium.com/my-notes-from-design-patterns-elements-of-reusable-object-oriented-software-book-2bf45dc33d1e). 
+    + Summary and C++ code example for each design pattern [page link](https://medium.com/@murataslan1/summary-of-design-patterns-elements-of-reusable-object-oriented-software-book-3da3b347ec78)
+    + Chapter-wise summary of the book [page link](https://danblevins.medium.com/my-reading-notes-from-design-patterns-elements-of-reusable-object-oriented-software-fc813ae05802)
 
 ![Design Patterns - Elements of Reusable Object-Oriented Software](<assets/Design Patterns - cover image.webp>)
 
